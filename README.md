@@ -1,7 +1,7 @@
 # The Python practicles from 1 to 13
 ## The prerequisite needed are:
-Python 3.15,
-Cmath library, and
+Python 3.15,\
+Cmath library, and\
 venv for the virtual environment.
 ## Practical List
 ### List of Practicals
