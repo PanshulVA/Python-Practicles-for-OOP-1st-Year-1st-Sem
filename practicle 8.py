@@ -1,4 +1,4 @@
-input_list = [1,2,3,4,"Panshul",6,7,11,200]
+input_list = eval(input("Enter a list: "))
 print(f"Input list:{input_list}")
 
 cubes=[]
