@@ -1,4 +1,4 @@
-string="practicles are the best way to learn programming"
+string="practicals are the best way to learn programming"
 print(f"Original string {string}")
 
 char_find='p'
