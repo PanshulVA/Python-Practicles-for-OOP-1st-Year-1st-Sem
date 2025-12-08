@@ -8,7 +8,7 @@ print(t1[:half_tuple])
 print(t1[half_tuple:])
 
 even_numbers= tuple(num for num in t1 if num %2==0)
-print("/n The even numbers in the tupleare:")
+print("\n The even numbers in the tupleare:")
 print(even_numbers)
 
 
