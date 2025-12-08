@@ -15,6 +15,7 @@ for n in num_list:
         # Check if it is even
         if n % 2 == 0:
             cubes.append(n ** 3)
+        else: raise ValueError("Number is not even")
 
 print("a. Cubes of even numbers (for loop):", cubes)
 
